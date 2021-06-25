@@ -7,6 +7,6 @@ if u need to run this project ............................
                                                                        02.'java'
                                                                        03.'finlProject'
                                                                        04.'geopostalwebapp'
-                                                                       And past all the file in this pakage.
+                                                                       And past all the test file in this pakage.
                                                                        
                                                       
